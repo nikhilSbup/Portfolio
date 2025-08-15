@@ -78,7 +78,7 @@ const Home = () => {
                 </div>
             </div>
             <div className='md:w-1/2 md:ml-48 md:mt-20 order-1'>
-                <img src={pic2} className='rounded-full md:w-[450px] md:h-[450px]' alt="coder" />
+                <img src={pic2} className='rounded-full md:w-[980px] md:h-[400px]' alt="coder" />
             </div>
         </div>
     </div>

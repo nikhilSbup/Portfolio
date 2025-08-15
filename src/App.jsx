@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Home from './components/Home'
 import About from './components/About'
 import Portfolio from './components/Portfolio'
+import Projects from './components/Projects'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
 import { Toaster } from 'react-hot-toast';
@@ -15,6 +16,7 @@ const App = () => {
       <Home />
       <About />
       <Portfolio />
+      <Projects />
       <Contact />
       <Footer />
     </div>
